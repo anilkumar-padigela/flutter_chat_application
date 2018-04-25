@@ -1,2 +1,2 @@
 # flutter_chat_application
-This is Chat sample chat application using flutter
+This is  sample chat application using flutter
